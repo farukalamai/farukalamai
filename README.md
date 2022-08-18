@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukalampro&label=Profile%20views&color=0e75b6&style=flat" alt="farukalampro" /> </p>
 
-- 🔭 I’m currently working on **Unsplash API**
+- 🔭 I’m currently working on **Yelp API**
 
 - 🌱 I’m currently learning **API devlopment**
 
