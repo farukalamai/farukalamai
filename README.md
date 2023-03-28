@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **API devlopment**
 
-- 👨‍💻 All of my projects are available at [farukalam.com](farukalam.com)
-
-- 📫 How to reach me **info@farukalam.com**
+- 📫 How to reach me **mdfarukt222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
