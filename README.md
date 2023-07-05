@@ -2,7 +2,8 @@
 
 ---
 <h3 align="center">
-Artificial Intelligence Engineer | Machine Learning Practitioner | Computer Vision | Freelance Python Programmer | Generative AI | Agricultural Engineer
+Artificial Intelligence Engineer | Machine Learning Practitioner | Computer Vision | Freelance</br>
+Python Programmer | Generative AI | Agricultural Engineer
 </h3>
 
 <div align=center>
