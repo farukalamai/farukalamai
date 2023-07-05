@@ -1,4 +1,4 @@
-<h3 align="center">Artificial Intelligence Engineer</h3>
+<h2 align="center">Artificial Intelligence Engineer</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukalampro&label=Profile%20views&color=0e75b6&style=flat" alt="farukalampro" /> </p>
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mdfarukt222@gmail.com**
 
-# AI Technologies:
+### AI Technologies:
 
 🚀 GPT-3 / GPT-4 / Langchain: AI Chatbots, content generation, and data scraping bot, integrations into websites and applications
 
