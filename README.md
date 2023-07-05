@@ -1,4 +1,18 @@
-<h2 align="center">Artificial Intelligence Engineer | Machine Learning Practitioner | Computer Vision | Freelance Python Programmer | Generative AI | Agricultural Engineer</h2>
+<h1 align="center">Hi 👋, I'm Faruk Alam</h1>
+
+---
+<h3 align="center">
+Artificial Intelligence Engineer | Machine Learning Practitioner | Computer Vision | Freelance Python Programmer | Generative AI | Agricultural Engineer
+</h3>
+
+<div align=center>
+  
+ [![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=rss&color=1f1f15)](https://farukalampro.github.io) 
+ [![linkedin](https://img.shields.io/badge/LinkedIn-%320beff?style=flat-square&logo=linkedin&color=1f1f18)](https://www.linkedin.com/in/farukalampro/) 
+ [![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=1f1f1f)](https://www.kaggle.com/farukalam) 
+ [![facebook](https://img.shields.io/badge/Facebook-%2320beff?style=flat-square&logo=facebook&color=1f1f15)](https://web.facebook.com/mdfarukalamparveg/)
+  
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukalampro&label=Profile%20views&color=0e75b6&style=flat" alt="farukalampro" /> </p>
