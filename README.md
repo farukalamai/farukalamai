@@ -11,6 +11,7 @@ Python Programmer | Generative AI | Agricultural Engineer
  [![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=rss&color=1f1f15)](https://farukalampro.github.io) 
  [![linkedin](https://img.shields.io/badge/LinkedIn-%320beff?style=flat-square&logo=linkedin&color=1f1f18)](https://www.linkedin.com/in/farukalampro/) 
  [![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=1f1f1f)](https://www.kaggle.com/farukalam) 
+ [![twitter](https://img.shields.io/badge/Twitter-%2320beff?style=flat-square&logo=twitter&color=1f1f1f)](https://twitter.com/farukalampro) 
  [![facebook](https://img.shields.io/badge/Facebook-%2320beff?style=flat-square&logo=facebook&color=1f1f15)](https://web.facebook.com/mdfarukalamparveg/)
   
 </div>
