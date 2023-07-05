@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mdfarukt222@gmail.com**
 
-AI Technologies:
+# AI Technologies:
 
 🚀 GPT-3 / GPT-4 / Langchain: AI Chatbots, content generation, and data scraping bot, integrations into websites and applications
 
