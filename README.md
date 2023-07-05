@@ -1,4 +1,4 @@
-<h2 align="center">Artificial Intelligence Engineer</h2>
+<h2 align="center">Artificial Intelligence Engineer | Machine Learning Practitioner | Computer Vision | Freelance Python Programmer | Generative AI | Agricultural Engineer</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukalampro&label=Profile%20views&color=0e75b6&style=flat" alt="farukalampro" /> </p>
