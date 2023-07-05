@@ -1,11 +1,11 @@
-<h3 align="center">Machine Learning Enthusiast</h3>
+<h3 align="center">Artificial Intelligence Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farukalampro&label=Profile%20views&color=0e75b6&style=flat" alt="farukalampro" /> </p>
 
-- 🔭 I’m currently working on **Deep neural networks (DNN)**
+- 🔭 I’m currently working on **Generative AI**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **NLP & Computer Vision**
 
 - 📫 How to reach me **mdfarukt222@gmail.com**
 
