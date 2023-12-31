@@ -17,7 +17,7 @@ Python Programmer | Generative AI | Agricultural Engineer
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farukalamai&label=Profile%20views&color=0e75b6&style=flat" alt="farukalampro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farukalampro&label=Profile%20views&color=0e75b6&style=flat" alt="farukalampro" /> </p>
 
 - 🔭 I’m currently working on **Generative AI**
 
@@ -43,7 +43,7 @@ Over the course of three years, I have honed my skills in web scraping, data min
 <p align=center>
   </br>
 <img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?farukalam" alt="Faruk Alam Kaggle Summary Card" height="150"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=farukalampro&show_icons=true&theme=react" height="150"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=farukalamai&show_icons=true&theme=react" height="150"/> 
 </p>
 ![Anurag's GitHub stats]()
 
