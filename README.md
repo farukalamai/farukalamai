@@ -48,7 +48,7 @@
 
 🚀 Cloud Services - working with cloud platforms like AWS, Google Cloud, and Microsoft Azure to seamlessly integrate and deploy solutions at scale.
 
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?farukalamai)
+
 
 🚀 Web Scraping Expertise:
 Over the course of three years, I have honed my skills in web scraping, data mining, web crawling, and data extraction using Python. I am well-versed in handling proxies, bypassing anti-bot protection, and solving captchas. My proficiency extends to scraping dynamic (JS/Ajax) websites, login-required sites, and IP blocking sites. Furthermore, I can deliver the scraped data in various formats, including CSV, XLSX (Excel or Google Sheets), JSON, MongoDB, or any other desired database format.
@@ -56,7 +56,7 @@ Over the course of three years, I have honed my skills in web scraping, data min
 
 <p align=center>
   </br>
-<img src="https://kaggle-card.chienhsiang-hung.eu.org/api/svg?farukalam" alt="Faruk Alam Kaggle Summary Card" height="150"/>&nbsp;
+<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?farukalam" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
 <img src="https://github-readme-stats.vercel.app/api?username=farukalamai&show_icons=true&theme=react" height="150"/> 
 </p>
 
