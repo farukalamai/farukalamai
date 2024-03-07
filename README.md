@@ -1,23 +1,34 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farukalampro&label=Profile%20views&color=0e75b6&style=flat" alt="farukalampro" /> </p>
+
 <h1 align="center">Hi 👋, I'm Faruk Alam</h1>
+<h3 align="center"> Computer Vision Engineer </h3>
 
----
-<h3 align="center">
-Artificial Intelligence Engineer | Machine Learning Practitioner | Computer Vision | Freelance</br>
-Python Programmer | Generative AI | Agricultural Engineer
-</h3>
+<br/>
 
-<div align=center>
-  
- [![website](https://img.shields.io/badge/-Website-blue?style=flat-square&logo=rss&color=1f1f15)](https://farukalampro.github.io) 
- [![linkedin](https://img.shields.io/badge/LinkedIn-%320beff?style=flat-square&logo=linkedin&color=1f1f18)](https://www.linkedin.com/in/farukalampro/) 
- [![kaggle](https://img.shields.io/badge/Kaggle-%2320beff?style=flat-square&logo=kaggle&color=1f1f1f)](https://www.kaggle.com/farukalam) 
- [![twitter](https://img.shields.io/badge/Twitter-%2320beff?style=flat-square&logo=twitter&color=1f1f1f)](https://twitter.com/farukalampro) 
- [![facebook](https://img.shields.io/badge/Facebook-%2320beff?style=flat-square&logo=facebook&color=1f1f15)](https://web.facebook.com/mdfarukalamparveg/)
-  
+<div align="center">
+    <a href="https://github.com/farukalamai">
+        <img src="icons/github.png" width="4%"/>
+    </a>
+    <img src="icons/transparent.png" width="3%"/>
+    <a href="https://twitter.com/farukalamai">
+        <img src="icons/twitter.png" width="4%"/>
+    </a>
+    <img src="icons/transparent.png" width="3%"/>
+    <a href="https://linkedin.com/in/farukalamai">
+        <img src="icons/linkedin.png" width="4%"/>
+    </a>
+    <img src="icons/transparent.png" width="3%"/>
+    <a href="https://kaggle.com/farukalam">
+        <img src="icons/kaggle.png" width="4%"/>
+    </a>
+    <img src="icons/transparent.png" width="3%"/>
+    <a href="https://youtube.com/@farukalamai">
+        <img src="icons/youtube.png" width="4%" />
+    </a>
 </div>
 
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farukalampro&label=Profile%20views&color=0e75b6&style=flat" alt="farukalampro" /> </p>
 
 - 🔭 I’m currently working on **Generative AI**
 
