@@ -30,7 +30,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on **Generative AI**
+- 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **NLP & Computer Vision**
 
@@ -54,10 +54,6 @@
 Over the course of three years, I have honed my skills in web scraping, data mining, web crawling, and data extraction using Python. I am well-versed in handling proxies, bypassing anti-bot protection, and solving captchas. My proficiency extends to scraping dynamic (JS/Ajax) websites, login-required sites, and IP blocking sites. Furthermore, I can deliver the scraped data in various formats, including CSV, XLSX (Excel or Google Sheets), JSON, MongoDB, or any other desired database format.
 
 
-<p align=center>
-  </br>
-<iframe src="https://kaggle-card.chienhsiang-hung.eu.org/api/basic?farukalam" width="100%" height="300" style="border:none; min-width: 800px;"></iframe>
-<img src="https://github-readme-stats.vercel.app/api?username=farukalamai&show_icons=true&theme=react" height="150"/> 
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farukalamai&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farukalamai&theme=react)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farukalamai&theme=react)
 
