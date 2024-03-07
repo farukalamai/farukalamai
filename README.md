@@ -55,6 +55,5 @@ Over the course of three years, I have honed my skills in web scraping, data min
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farukalamai&theme=react)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farukalamai&theme=react)      ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farukalamai&theme=react)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=farukalamai&theme=react) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=farukalamai&theme=react)|
 
