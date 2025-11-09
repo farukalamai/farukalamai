@@ -1,1 +1,1 @@
-## I teach machines how to see
+I teach machines how to see.
